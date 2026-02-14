@@ -1,5 +1,5 @@
 /*
-to get started with the project:
+to get started with the project
 
 1. Login to your MongoDB 
 2. Connect to your Project/Cluster
