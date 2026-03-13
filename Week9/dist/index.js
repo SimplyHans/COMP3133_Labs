@@ -37,3 +37,4 @@ y = {
 console.log(y);
 var fe1 = new FullTimeEmployee_1.default(1, "MOX", "Shen", "CAL", "PROF", 1256.60);
 fe1.display();
+var s = "TEST";

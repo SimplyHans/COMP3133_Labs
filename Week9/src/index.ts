@@ -47,3 +47,7 @@ console.log(y)
 
 let fe1 = new FullTimeEmployee(1, "MOX", "Shen", "CAL", "PROF", 1256.60)
 fe1.display()
+
+type NAME = string
+
+let s:NAME = "TEST"
